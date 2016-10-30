@@ -1,3 +1,3 @@
 # Django
 
-Repository where my Django code from the django tutorial is.
+Repository where my code python from the django tutorial is.
